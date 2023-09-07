@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkAuto", "SparkAuto\SparkAuto.csproj", "{AFC47DB8-8AD2-423D-A0ED-1EF334D0170C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC47DB8-8AD2-423D-A0ED-1EF334D0170C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC47DB8-8AD2-423D-A0ED-1EF334D0170C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC47DB8-8AD2-423D-A0ED-1EF334D0170C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC47DB8-8AD2-423D-A0ED-1EF334D0170C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D110A4A8-5A93-4521-AFC6-19FCA8E50C3A}
+	EndGlobalSection
+EndGlobal
